@@ -1,9 +1,4 @@
-class Solution {
-
-//     static {
-//     for (int i = 0; i < 500; i++)
-//         productExceptSelf(new int[] {0,1});
-// }
+class Solution {   
     public static int[] productExceptSelf(int[] nums) {
 
         int n = nums.length;
